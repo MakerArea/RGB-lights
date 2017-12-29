@@ -1,2 +1,2 @@
-# RGB-lights-
+# RGB-lights
 Lights at window
